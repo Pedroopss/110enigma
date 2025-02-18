@@ -1,8 +1,8 @@
-                          110Enigma
+                                                   110Enigma
 O "110Enigma" é um jogo de enigmas com 5 fases, onde o jogador precisa resolver mistérios e superar desafios para avançar. A cada fase, novas pistas são fornecidas para testar a lógica e criatividade do jogador.
 
 Como Jogar?
-1. Acesse o site "https://seu-usuario.github.io/110enigma".
+1. Acesse o site "https://pedroopss.github.io/110enigma/".
 2. Siga as pistas de cada fase para descobrir a solução do enigma.
 3. Cada fase terá um desafio diferente, com o objetivo de testar sua mente e lógica.
 4. Caso precise de ajuda, tente pensar fora da caixa e procure por dicas ao longo do caminho!
