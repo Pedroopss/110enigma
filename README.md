@@ -1,4 +1,4 @@
-                                                                             DESCRIÇÃO
+                          110Enigma
 O "110Enigma" é um jogo de enigmas com 5 fases, onde o jogador precisa resolver mistérios e superar desafios para avançar. A cada fase, novas pistas são fornecidas para testar a lógica e criatividade do jogador.
 
 Como Jogar?
